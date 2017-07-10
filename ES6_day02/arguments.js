@@ -23,3 +23,4 @@ function containsAll_es6(hayStack,...strs){
 }
 containsAll_es6('banana','b','na') //true
 containsAll_es6('banana','c','na') //false
+console.log('asdfasfd')
